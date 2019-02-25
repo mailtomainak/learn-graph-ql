@@ -1,0 +1,54 @@
+{
+    "users": [{
+            "id": "5c739040613f0ee29ae93a7f",
+            "index": 0,
+            "name": "Wyatt Tran",
+            "email": "wyatttran@sarasonic.com",
+            "companyId": "1"
+        },
+        {
+            "id": "5c7390402256b2271dd0a2f2",
+            "index": 1,
+            "name": "Clare Finch",
+            "email": "clarefinch@sarasonic.com",
+            "companyId": "1"
+        },
+        {
+            "id": "5c7390403a6684b4508efb39",
+            "index": 2,
+            "name": "Buckner Winters",
+            "email": "bucknerwinters@sarasonic.com",
+            "companyId": "2"
+        },
+        {
+            "id": "5c739040e42077ffad9d1a9e",
+            "index": 3,
+            "name": "Goodwin Miles",
+            "email": "goodwinmiles@sarasonic.com",
+            "companyId": "2"
+        },
+        {
+            "id": "5c73904021a1e3b46a8f7e41",
+            "index": 4,
+            "name": "Miller Bentley",
+            "email": "millerbentley@sarasonic.com",
+            "companyId": "1"
+        },
+        {
+            "id": "5c7390403280bb86846d1197",
+            "index": 5,
+            "name": "Carissa Ortiz",
+            "email": "carissaortiz@sarasonic.com",
+            "companyId": "2"
+        }
+    ],
+    "companies": [{
+        "id": "1",
+        "name": "Google",
+        "business": "search"
+    }, {
+        "id": "2",
+        "name": "Facebook",
+        "business": "social-media"
+    }]
+}
